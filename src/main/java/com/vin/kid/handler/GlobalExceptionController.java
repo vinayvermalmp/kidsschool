@@ -1,4 +1,4 @@
-package com.vin.kid.controller;
+package com.vin.kid.handler;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.ControllerAdvice;
